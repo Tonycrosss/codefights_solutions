@@ -49,9 +49,9 @@ Guaranteed constraints:
 The total price of all the rooms that are suitable for the CodeBots to live in
 """
 # 9
-matrix = [[1,1,1,0],
-          [0,5,0,1],
-          [2,1,3,10]]
+matrix = [[1, 1, 1, 0],
+          [0, 5, 0, 1],
+          [2, 1, 3, 10]]
 haunted_room_index = []
 for arr in matrix:
 
